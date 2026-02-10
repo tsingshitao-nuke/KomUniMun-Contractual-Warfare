@@ -30,9 +30,11 @@ The pack will feature many missions with locations spread all throught Kerbin an
 
 [BD Armory Plus][4]
 
-[Contract Configurator][5]
+[Module Manager][5]
 
-[Ferram Aerospace Research Continued (FARc Edition Only)][6]
+[Contract Configurator][6]
+
+[Ferram Aerospace Research Continued (FARc Edition Only)][7]
 
 For the pack to work as intended you must untick the Disable Guard Mode on Spawn option found in the BDA+ settings:
 
@@ -42,5 +44,6 @@ For the pack to work as intended you must untick the Disable Guard Mode on Spawn
 [2]: https://github.com/narni-tchereskov/KomUniMun-Contractual-Warfare/releases/latest
 [3]: https://spacedock.info/mod/4018/Contract%20Pack:%20KomUniMun%20Contractual%20Warfare
 [4]: https://forum.kerbalspaceprogram.com/topic/209092-19x-112x-bdarmory-plus-bda-v11110-2025-10-18
-[5]: https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05
-[6]: https://forum.kerbalspaceprogram.com/topic/179445-18-112-ferram-aerospace-research-continued-v01605-mader-030422
+[5]: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season
+[6]: https://forum.kerbalspaceprogram.com/topic/91625-1101-contract-configurator-v1305-2020-10-05
+[7]: https://forum.kerbalspaceprogram.com/topic/179445-18-112-ferram-aerospace-research-continued-v01605-mader-030422
